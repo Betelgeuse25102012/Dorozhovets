@@ -1,0 +1,62 @@
+    body {
+        background-color: #f5f2db;
+        color: #0f141e;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: "Playfair Display", serif;
+        }
+    
+    .page {
+        width: auto;
+        padding: 15px;
+        }
+
+    h2, h3 {
+        font-style: italic;
+        margin: 0px;
+        padding: 0px;
+        }
+    
+    h2  {
+        color:#79a4db;
+        }
+
+    h3 {
+        color:#b414dc;
+        }
+
+    p   { 
+        text-indent: 20px;
+        margin: 0px;
+        padding: 0px;
+        }
+
+   .color_Pink {
+        background: #fcd3da;
+        padding: 15px;
+        border-radius: 10px;
+        }
+
+    .avatar {
+        max-width: 170px;
+        border-radius: 10px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    .color_Thistle {
+        background: #D8BFD8;
+        padding: 15px;
+        border-radius: 10px;
+        }
+   
+    .picture_book {
+        max-width: 150px;
+        margin-right: 10px;
+        border-radius: 10px;
+        float:left;
+        }
+
+    .Text {
+        min-height: 220px;
+        }
